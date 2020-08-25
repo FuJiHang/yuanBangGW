@@ -1,0 +1,18 @@
+{
+  "name": "yuanbang",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "less": "^3.12.2",
+    "less-loader": "^6.2.0",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {}
+}
